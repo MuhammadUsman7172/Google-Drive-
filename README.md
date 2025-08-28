@@ -1,1 +1,1 @@
-# Google-Drive-
+Google Drive is a cloud storage service provided by Google. It allows users to store, access, and share files (documents, photos, videos, and more) on the internet instead of only keeping them on a computer or mobile device.
